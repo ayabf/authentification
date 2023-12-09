@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364484921982",
+    "project_id": "testfirebase-3040a",
+    "storage_bucket": "testfirebase-3040a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364484921982:android:850dcda504538dda9c262f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkGbek3-aY3_5NCVuh046m_1Li5wEAljc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
